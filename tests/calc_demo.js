@@ -29,7 +29,7 @@ describe('Demo Calc tests', function () {
 
         home.verifyResult('15');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
     });
 
 });
